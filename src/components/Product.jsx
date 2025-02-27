@@ -1,7 +1,3 @@
-// src/Product.jsx
-
-// src/components/Product.jsx
-
 export default function Product({
   name,
   imgUrl = "https://dummyimage.com/640x480/2a2a2a/ffffff&text=Product+image+placeholder",
